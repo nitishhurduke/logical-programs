@@ -10,8 +10,8 @@ public class Abc
 		boolean b = false;
 
 		System.out.println("a1  b1 common bool");
-	    for(int h = 0; h<a1.length; h++)
-	    {
+	        for(int h = 0; h<a1.length; h++)
+	        {
 		    for (int i = 0;i<3;i++)
 		    {	
 		    	for(int j = 0; j<3;j++)
